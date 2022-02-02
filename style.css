@@ -36,7 +36,7 @@
   border-radius: 50%;
 }
 
-.btn-blue a:hover {
+.btn-blue {
   background-color: #020752;
   color: white;
   padding: 15px 20px;
@@ -51,6 +51,10 @@
 .list-inline {
   list-style: none;
   padding-left: 0px;
+}
+
+a:hover {
+  color: grey;
 }
 
 
