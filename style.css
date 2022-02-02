@@ -46,6 +46,7 @@
 .no-points {
   list-style: none;
   text-align: center;
+  font-weight: 200;
 }
 
 .list-inline > li {
